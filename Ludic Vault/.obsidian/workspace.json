@@ -11,8 +11,33 @@
             "id": "13ad8e27fbadfb88",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Agricenter/Disc World.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3d8ae67f31c08c2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cb1e73e189a4c1d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/_Memfis_Maps/_Memfis_Map.canvas",
+                "viewState": {
+                  "x": 40,
+                  "y": 20,
+                  "zoom": 1
+                }
+              }
             }
           }
         ]
@@ -61,12 +86,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 371.5
   },
   "right": {
     "id": "ac5f1ebe27f2d646",
@@ -82,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Agricenter/Disc World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Agricenter/Disc World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Agricenter/Disc World.md"
+              }
             }
           }
         ]
@@ -141,16 +169,48 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "dbfolder:Create a new database table": false
     }
   },
   "active": "13ad8e27fbadfb88",
   "lastOpenFiles": [
+    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Agricenter/Un Bijou Fey.md",
+    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Agricenter/Disc World.md",
+    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Gladgavine's Mage Tower.md",
+    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/_Memfis_Maps/_Memfis_Map.canvas",
+    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Bard College of Null.md",
+    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/_Memfis_Maps",
+    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Bardog Tavern.md",
+    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Woepaw West",
+    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Sloan's Steel Quarter",
+    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Sardis Lake.md",
+    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Craft Market",
+    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Spring Market",
+    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Flatrock Stockade.md",
+    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Agricenter",
+    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Town Hall.md",
+    "D&D/Worlds/Orizon/Wikis/Databases/NPCs/_NPC_DB.md",
+    "D&D/Worlds/Orizon/Wikis/Databases/Images/Memfis.jpeg",
+    "D&D/Worlds/Orizon/Wikis/Databases/Images",
+    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis",
+    "D&D/Worlds/Orizon/Templates/NPCs/NPC_Template.md",
+    "D&D/Worlds/Orizon/Templates/Untitled.md",
+    "D&D/Worlds/Orizon/Templates/Events",
+    "D&D/Worlds/Orizon/Templates/Locations",
+    "D&D/Worlds/Orizon/Wikis/Databases/NPCs/NPC List/rtadsg.md",
+    "D&D/Worlds/Orizon/Wikis/Databases/NPCs/NPC List/Ricardo.md",
+    "D&D/Worlds/Orizon/Wikis/Databases/NPCs/dsfs.md",
+    "D&D/Worlds/Orizon/Wikis/Databases/NPCs/Named Person.md",
+    "D&D/Worlds/Orizon/Wikis/Databases/NPCs/Test.md",
+    "D&D/Worlds/Orizon/Wikis/Databases/NPCs/Untitled.md",
+    "D&D/Worlds/Orizon/Wikis/Calendar/Holidays.md",
+    "D&D/Worlds/Orizon/Wikis/NPCs/Untitled database.md",
+    "Orizon NPCs.md",
+    "D&D/Worlds/Orizon/Wikis/Calendar.md",
+    "D&D/Worlds/Orizon/Wikis/NPCs.md",
+    "D&D/Worlds/Orizon/Wikis/Magonia/The Raft/Inspiration.md",
     "Users/jonathan.winters/Documents/Obsidian_Vaults/README.md",
-    "Users/jonathan.winters/Documents/Obsidian_Vaults",
-    "Users/jonathan.winters/Documents",
-    "Users/jonathan.winters",
-    "Users",
     "2023-07-23.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
