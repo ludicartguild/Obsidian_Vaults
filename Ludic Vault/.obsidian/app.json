@@ -1,4 +1,5 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "D&D/Worlds/Orizon/Wikis/Databases/Images"
+  "attachmentFolderPath": "D&D/Worlds/Orizon/Wikis/Databases/Images",
+  "alwaysUpdateLinks": true
 }

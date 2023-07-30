@@ -1,6 +1,18 @@
 {
 	"nodes":[
-		{"id":"68385b9a3cf1e1bb","x":-160,"y":-180,"width":400,"height":400,"color":"4","type":"file","file":"D&D/Worlds/Orizon/Wikis/Databases/Images/Memfis.jpeg"}
+		{"type":"group","id":"bf22defbabadb8f6","x":-4640,"y":-12520,"width":11360,"height":9920,"label":"Memfis","background":"D&D/Worlds/Orizon/Wikis/Databases/Images/Memfis.jpeg"},
+		{"type":"file","file":"D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Gladgavine's Mage Tower.md","id":"55620c1692e25c94","x":3920,"y":-7000,"width":400,"height":400,"color":"1"},
+		{"type":"file","file":"D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Town Hall.md","id":"d9a33b4416e8cd6f","x":360,"y":-9840,"width":400,"height":400,"color":"1"},
+		{"type":"file","file":"D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Flatrock Stockade.md","id":"9cfbefa6e01547ea","x":-1606,"y":-9320,"width":332,"height":400,"color":"1"},
+		{"type":"file","file":"D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Woepaw West/Ostler's Brewery & Pub.md","id":"ef183932dff0b2ac","x":3040,"y":-8400,"width":400,"height":398,"color":"1"},
+		{"type":"file","file":"D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Agricenter/Un Bijou Fey.md","id":"4b378b0eaa738f11","x":1320,"y":-7280,"width":240,"height":360,"color":"1"},
+		{"type":"file","file":"D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Bardog Tavern.md","id":"22b09dd0a4a26d98","x":2040,"y":-7920,"width":400,"height":400,"color":"1"},
+		{"type":"file","file":"D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Sardis Lake.md","id":"bcaf98d1d9bbe6ec","x":360,"y":-8720,"width":400,"height":320,"color":"1"},
+		{"type":"file","file":"D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Bard College of Null.md","id":"38dea79d673c2741","x":-1800,"y":-7600,"width":360,"height":360,"color":"1"},
+		{"type":"file","file":"D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Agricenter/Disc World.md","id":"b7807650d141ff59","x":-160,"y":-8040,"width":240,"height":320,"color":"1"},
+		{"type":"file","file":"D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Agricenter/Botanists of Tremblethorn.md","id":"983324ce14fb6c71","x":-320,"y":-7640,"width":400,"height":400,"color":"1"},
+		{"id":"5e614edf8111ef33","x":360,"y":-5440,"width":400,"height":240,"color":"1","type":"file","file":"D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Craft Market/Fonda Farm's Honey.md"},
+		{"type":"file","file":"D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Craft Market/Ruby's River.md","id":"486341dd1a4c324b","x":360,"y":-5800,"width":320,"height":280,"color":"1"}
 	],
 	"edges":[]
 }
