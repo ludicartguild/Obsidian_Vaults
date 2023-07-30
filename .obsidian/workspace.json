@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "84a19dbabe5c1ac5",
+    "type": "split",
+    "children": [
+      {
+        "id": "69696b5936d2d6f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bc44785303dd799",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4a25af5bad56571",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ff3d684a5b55101",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "082d161aca14b09c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f364cb6fbcdea5c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "da31014b0bc40388",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2042ab1d66502bc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1771e9c100469807",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a3c104e7da43387",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "217dbd2140952eb2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa051beb7da840d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cbacd60103d90d66",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "082d161aca14b09c",
+  "lastOpenFiles": [
+    "Ludic Vault/Users/jonathan.winters/Documents/Obsidian_Vaults/README.md",
+    "Ludic Vault/Users/jonathan.winters/Documents/Obsidian_Vaults",
+    "Ludic Vault/Users/jonathan.winters/Documents",
+    "Ludic Vault/Users/jonathan.winters",
+    "Ludic Vault/Users"
+  ]
+}
