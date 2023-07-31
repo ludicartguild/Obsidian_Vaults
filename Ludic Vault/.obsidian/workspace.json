@@ -4,46 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "2f427577bd8b0d80",
+        "id": "951afd1f3bc05e47",
         "type": "split",
+        "dimension": 51.78997613365155,
         "children": [
           {
-            "id": "bf97b4d433a27c40",
+            "id": "3ede216ecac235cc",
             "type": "tabs",
-            "dimension": 38.26219512195122,
+            "dimension": 36.64658634538153,
             "children": [
               {
-                "id": "414496470801e917",
+                "id": "ebe28afe32106085",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "database-plugin",
+                  "state": {
+                    "file": "D&D/Worlds/Orizon/World States/Pink Degenerates/Session Notes/_Session_Notes_DB.md"
+                  }
                 }
               }
             ]
           },
           {
-            "id": "0da6e0841ce417af",
+            "id": "1a49b9c118b69ed3",
             "type": "split",
-            "dimension": 61.737804878048784,
+            "dimension": 63.35341365461847,
             "children": [
               {
-                "id": "873992b4fa265d87",
+                "id": "5476566713909146",
                 "type": "tabs",
+                "dimension": 38.431752178121975,
                 "children": [
                   {
-                    "id": "1cb1e73e189a4c1d",
+                    "id": "13ad8e27fbadfb88",
                     "type": "leaf",
                     "pinned": true,
                     "state": {
-                      "type": "canvas",
+                      "type": "markdown",
                       "state": {
-                        "file": "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/_Memfis_Maps/_Memfis_Map.canvas",
-                        "viewState": {
-                          "x": 1479.388945804524,
-                          "y": -7412.26016722732,
-                          "zoom": -3.454186913172404
-                        }
+                        "file": "D&D/Worlds/Orizon/World States/Pink Degenerates/Session Notes/Session Notes List/Session 7.30.md",
+                        "mode": "source",
+                        "source": false
                       },
                       "pinned": true
                     }
@@ -51,17 +52,39 @@
                 ]
               },
               {
-                "id": "e0bbfae967daf2f8",
+                "id": "8040ce995ef8de7c",
                 "type": "tabs",
+                "dimension": 33.20425943852855,
                 "children": [
                   {
-                    "id": "13ad8e27fbadfb88",
+                    "id": "b139d8fea4523509",
                     "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "database-plugin",
+                      "state": {
+                        "file": "D&D/Worlds/Orizon/World States/Pink Degenerates/Quests/_Quest_DB.md"
+                      },
+                      "pinned": true
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "a5c8549c6b57c1f9",
+                "type": "tabs",
+                "dimension": 28.36398838334947,
+                "children": [
+                  {
+                    "id": "9858eaae48725b09",
+                    "type": "leaf",
+                    "pinned": true,
                     "state": {
                       "type": "database-plugin",
                       "state": {
                         "file": "D&D/Worlds/Orizon/Wikis/Databases/NPCs/_NPC_DB.md"
-                      }
+                      },
+                      "pinned": true
                     }
                   }
                 ]
@@ -71,6 +94,30 @@
           }
         ],
         "direction": "vertical"
+      },
+      {
+        "id": "86643faed2cd2e2d",
+        "type": "tabs",
+        "dimension": 48.21002386634845,
+        "children": [
+          {
+            "id": "09f9f8a09ecf9e56",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/_Memfis_Maps/_Memfis_Map.canvas",
+                "viewState": {
+                  "x": 667.3122807017543,
+                  "y": -6441.936842105262,
+                  "zoom": -2.4543606290898756
+                }
+              },
+              "pinned": true
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 200
   },
   "right": {
     "id": "ac5f1ebe27f2d646",
@@ -136,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Worlds/Orizon/Wikis/Databases/NPCs/_NPC_DB.md",
+                "file": "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/_Memfis_Maps/_Memfis_Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Worlds/Orizon/Wikis/Databases/NPCs/_NPC_DB.md",
+                "file": "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/_Memfis_Maps/_Memfis_Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Worlds/Orizon/Wikis/Databases/NPCs/_NPC_DB.md"
+                "file": "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/_Memfis_Maps/_Memfis_Map.canvas"
               }
             }
           }
@@ -184,7 +231,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -203,46 +250,46 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "13ad8e27fbadfb88",
+  "active": "09f9f8a09ecf9e56",
   "lastOpenFiles": [
-    "D&D/Worlds/Orizon/Wikis/Databases/NPCs/NPC List/Worton.md",
-    "D&D/Worlds/Orizon/Wikis/Databases/NPCs/_NPC_DB.md",
-    "D&D/Worlds/Orizon/Wikis/Databases/NPCs/NPC List/Eunun Dunghaui.md",
-    "D&D/Worlds/Orizon/Wikis/Databases/NPCs/NPC List/Ricardo.md",
-    "D&D/Worlds/Orizon/Wikis/Databases/NPCs/NPC List/rtadsg.md",
-    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/_Memfis_Maps/_Memfis_Map.canvas",
-    "D&D/Worlds/Orizon/World States/Pink Degenerates/Quests/Quest List/Gladgavine's White Sewage Disposal.md",
-    "D&D/Worlds/Orizon/Wikis/Databases/NPCs/Wharton Esherick.md",
-    "D&D/Worlds/Orizon/World States/Pink Degenerates/Quests/_Quest_DB.md",
-    "D&D/Worlds/Orizon/World States/Pink Degenerates/Quests/Quest List/Morning Construction Work.md",
-    "D&D/Worlds/Orizon/World States/Pink Degenerates/Quests/Quest List/Rhok and the Agricenter.md",
-    "D&D/Worlds/Orizon/World States/Pink Degenerates/Quests/Quest List/Alchemical & Herball Apprenticeship.md",
-    "D&D/Worlds/Orizon/World States/Pink Degenerates/Quests/Quest List/Killing a Griefer.md",
-    "D&D/Worlds/Orizon/World States/Pink Degenerates/Quests/Quest List/Lighting the Caravan's Way.md",
-    "D&D/Worlds/Orizon/World States/Pink Degenerates/Quests/Quest List/Put the Lemon in the Coconut.md",
-    "D&D/Worlds/Orizon/World States/Pink Degenerates/Session Notes/Session Notes List/Session 7.30.md",
-    "D&D/Worlds/Orizon/World States/Pink Degenerates/Quests/Quest List",
-    "D&D/Worlds/Orizon/World States/Pink Degenerates/Quests",
     "D&D/Worlds/Orizon/World States/Pink Degenerates/Session Notes/_Session_Notes_DB.md",
-    "D&D/Worlds/Orizon/World States/Pink Degenerates/Session Notes/Session Notes List",
-    "D&D/Worlds/Orizon/World States/Pink Degenerates/Session Notes",
-    "D&D/Worlds/Orizon/World States/Pink Degenerates/Untitled database.md",
-    "D&D/Worlds/Orizon/World States/Pink Degenerates/Session Notes.md",
-    "D&D/Worlds/Orizon/World States/Pink Degenerates",
-    "D&D/Worlds/Orizon/Wikis/Databases/NPCs/NPC List/Urin Rubyminer.md",
+    "D&D/Worlds/Orizon/World States/Pink Degenerates/Quests/Quest List/Morning Construction Work.md",
+    "D&D/Worlds/Orizon/World States/Pink Degenerates/Quests/_Quest_DB.md",
+    "D&D/Worlds/Orizon/World States/Pink Degenerates/Session Notes/Session Notes List/Session 7.30.md",
+    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/_Memfis_Maps/_Memfis_Map.canvas",
+    "D&D/Worlds/Orizon/Wikis/Databases/NPCs/NPC List/Elof Amberden.md",
+    "D&D/Worlds/Orizon/Wikis/Calendar/Holidays.md",
+    "D&D/Worlds/Orizon/World States/Pink Degenerates/Quests/Quest List/Put the Lemon in the Coconut.md",
+    "D&D/Worlds/Orizon/World States/Pink Degenerates/Quests/Quest List/Rhok and the Agricenter.md",
+    "D&D/Worlds/Orizon/World States/Pink Degenerates/Quests/Quest List/Alchemical & Herbal Apprenticeship.md",
+    "D&D/Worlds/Orizon/Wikis/Databases/NPCs/NPC List/Feuk'u Chanterelle.md",
+    "D&D/Worlds/Orizon/Wikis/Databases/NPCs/_NPC_DB.md",
+    "D&D/Worlds/Orizon/Wikis/Databases/NPCs/NPC List/Wharton Esherick.md",
     "D&D/Worlds/Orizon/Wikis/Databases/NPCs/NPC List/Feuk'u.md",
+    "D&D/Worlds/Orizon/World States/Pink Degenerates/Quests/Quest List/Gladgavine's White Sewage Disposal.md",
+    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Gladgavine's Mage Tower.md",
+    "D&D/Worlds/Orizon/Wikis/Databases/NPCs/NPC List/Urin Rubyminer.md",
     "D&D/Worlds/Orizon/Wikis/Databases/NPCs/NPC List/Gladgavine.md",
     "D&D/Worlds/Orizon/Wikis/Databases/NPCs/NPC List/Femme Boulange.md",
-    "D&D/Worlds/Orizon/Wikis/Databases/NPCs/NPC List/Botanists of Tremblethorn",
-    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Craft Market/Fonda Farm's Honey.md",
-    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Agricenter/Botanists of Tremblethorn.md",
-    "D&D/Worlds/Orizon/Wikis/Databases/Images/Decanter of Infinite Bees.png",
+    "D&D/Worlds/Orizon/Wikis/Databases/NPCs/NPC List/Eunun Dunghaui.md",
+    "D&D/Worlds/Orizon/Wikis/Databases/NPCs/NPC List",
+    "D&D/Worlds/Orizon/Wikis/Databases/NPCs",
+    "D&D/Worlds/Orizon/World States/Pink Degenerates/Quests/Quest List/Lighting the Caravan's Way.md",
+    "D&D/Worlds/Orizon/World States/Pink Degenerates/Quests/Quest List/Killing a Griefer.md",
+    "D&D/Worlds/Orizon/World States/Pink Degenerates/Session Notes/Session Notes List",
+    "D&D/Worlds/Orizon/World States/Pink Degenerates/Quests/Quest List",
+    "D&D/Worlds/Orizon/World States/Pink Degenerates/Session Notes",
+    "D&D/Worlds/Orizon/World States/Pink Degenerates/Quests",
+    "D&D/Worlds/Orizon/World States/Pink Degenerates",
+    "D&D/Worlds/Orizon/World States",
+    "D&D/Worlds/Orizon/Wikis/Magonia/The Raft/Inspiration.md",
+    "D&D/Worlds/Orizon/Wikis/Magonia/The Raft",
+    "D&D/Worlds/Orizon/Wikis/Magonia",
+    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Woepaw West/Ostler's Brewery & Pub.md",
     "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Craft Market/Ruby's River.md",
-    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/_Memfis_Maps",
-    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Woepaw West",
-    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Sloan's Steel Quarter",
-    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Craft Market",
+    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Craft Market/Fonda Farm's Honey.md",
     "D&D/Worlds/Orizon/Wikis/Databases/Images/Memfis.jpeg",
+    "D&D/Worlds/Orizon/Wikis/Databases/Images/Decanter of Infinite Bees.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

@@ -1,2 +1,0 @@
-1. 40 hours of work, get an invest towards living space. Just the land, not a house. Per 40 hours, 500^2 of natural land.  
-    Worked 8 hours the first day! RULE: you work 2 hours minimum, then 1 hour for each number above 15 in a Con Roll.
