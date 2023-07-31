@@ -8,26 +8,55 @@
         "type": "split",
         "children": [
           {
-            "id": "bf97b4d433a27c40",
-            "type": "tabs",
-            "dimension": 38.26219512195122,
+            "id": "ce52ea058dc92325",
+            "type": "split",
+            "dimension": 40.77743902439025,
             "children": [
               {
-                "id": "414496470801e917",
-                "type": "leaf",
-                "state": {
-                  "type": "database-plugin",
-                  "state": {
-                    "file": "D&D/Worlds/Orizon/World States/Pink Degenerates/Quests/_Quest_DB.md"
+                "id": "bf97b4d433a27c40",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "414496470801e917",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "D&D/Worlds/Orizon/Wikis/Databases/Organizations/Organization List/The Crystal Caravan/The Caravan Ogud.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
                   }
-                }
+                ]
+              },
+              {
+                "id": "d514f2d2b8896fe6",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "901ad9ecb445715c",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "D&D/Worlds/Orizon/Wikis/Databases/Organizations/Organization List/The Crystal Caravan/The Crystal Caravan.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
+                  }
+                ]
               }
-            ]
+            ],
+            "direction": "horizontal"
           },
           {
             "id": "0da6e0841ce417af",
             "type": "split",
-            "dimension": 61.737804878048784,
+            "dimension": 59.22256097560976,
             "children": [
               {
                 "id": "873992b4fa265d87",
@@ -40,7 +69,7 @@
                     "state": {
                       "type": "canvas",
                       "state": {
-                        "file": "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/_Memfis_Maps/_Memfis_Map.canvas",
+                        "file": "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Labrenda Plains/Memfis/_Memfis_Maps/_Memfis_Map.canvas",
                         "viewState": {
                           "x": 3089.863647324491,
                           "y": -7860.7467929670565,
@@ -165,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Worlds/Orizon/World States/Pink Degenerates/Quests/_Quest_DB.md",
+                "file": "D&D/Worlds/Orizon/Wikis/Databases/Organizations/Organization List/The Crystal Caravan/The Caravan Ogud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Worlds/Orizon/World States/Pink Degenerates/Quests/_Quest_DB.md",
+                "file": "D&D/Worlds/Orizon/Wikis/Databases/Organizations/Organization List/The Crystal Caravan/The Caravan Ogud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Worlds/Orizon/World States/Pink Degenerates/Quests/_Quest_DB.md"
+                "file": "D&D/Worlds/Orizon/Wikis/Databases/Organizations/Organization List/The Crystal Caravan/The Caravan Ogud.md"
               }
             }
           }
@@ -232,16 +261,33 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "44655a08da723afd",
+  "active": "414496470801e917",
   "lastOpenFiles": [
+    "D&D/Worlds/Orizon/Wikis/Databases/Organizations/Organization List/The Crystal Caravan/The Crystal Caravan.md",
+    "D&D/Worlds/Orizon/Wikis/Databases/Organizations/Organization List/The Crystal Caravan/The Caravan Ogud.md",
+    "D&D/Worlds/Orizon/Wikis/Databases/Organizations/Organization List/The Crystal Caravan/The Caravan Sumum.md",
+    "D&D/Worlds/Orizon/Wikis/Databases/Organizations/Organization List/The Crystal Caravan/The Caravan Kimik.md",
+    "D&D/Worlds/Orizon/Wikis/Databases/Organizations/Organization List/The Crystal Caravan/The Caravan Shadn.md",
+    "D&D/Worlds/Orizon/Wikis/Databases/Organizations/Organization List/The Crystal Caravan/The Caravan Ani.md",
+    "D&D/Worlds/Orizon/Wikis/Databases/Organizations/_Organization_DB.md",
+    "D&D/Worlds/Orizon/Wikis/Databases/Organizations/Organization List/The Crystal Caravan",
+    "D&D/Worlds/Orizon/Wikis/Databases/Images/Memfis.jpeg",
+    "D&D/Worlds/Orizon/Wikis/Databases/Organizations/Organization List",
+    "D&D/Worlds/Orizon/Templates/NPCs/NPC_Template.md",
+    "D&D/Worlds/Orizon/Wikis/Databases/Organizations",
+    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Labrenda Plains/Memfis/Sloan's Steel Quarter/Wharton's Carpentry.md",
+    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Labrenda Plains/Memfis/_Memfis_Maps/_Memfis_Map.canvas",
+    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Labrenda Plains/Memfis/Bardog Tavern.md",
+    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Labrenda Plains/Memfis/Bard College of Null.md",
+    "D&D/Worlds/Orizon/World States/Pink Degenerates/Quests/_Quest_DB.md",
+    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Labrenda Plains",
     "D&D/Worlds/Orizon/Wikis/Underdark/Untitled.md",
     "D&D/Worlds/Orizon/Wikis/The Skylands/Urur/Untitled.md",
     "D&D/Worlds/Orizon/Wikis/The Skylands/Ozrum/Untitled.md",
     "D&D/Worlds/Orizon/Wikis/The Skylands/Internai/Untitled.md",
     "D&D/Worlds/Orizon/Wikis/The Skylands/Estir/Untitled.md",
     "D&D/Worlds/Orizon/Wikis/The Skylands/Aemali/Untitled.md",
-    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Spring Market/Untitled.md",
-    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Sloan's Steel Quarter/Wharton's Carpentry.md",
+    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Labrenda Plains/Memfis/Spring Market/Untitled.md",
     "D&D/Worlds/Orizon/Wikis/The Ground/Lunti Hadn/Untitled.md",
     "D&D/Worlds/Orizon/Wikis/The Ground/Istal/Untitled.md",
     "D&D/Worlds/Orizon/Wikis/The Ground/Isle of Greenmarsh Peak/Untitled.md",
@@ -249,18 +295,6 @@
     "D&D/Worlds/Orizon/Wikis/The Ground/Grim Felsic/Untitled.md",
     "D&D/Worlds/Orizon/Wikis/Magonia/Zalem/Untitled.md",
     "D&D/Worlds/Orizon/Wikis/Magonia/The Mire/Untitled.md",
-    "D&D/Worlds/Orizon/Wikis/Magonia/Skyholm/Untitled.md",
-    "D&D/Worlds/Orizon/Wikis/Magonia/Scantaphrax/Untitled.md",
-    "D&D/Worlds/Orizon/Wikis/Magonia/Laputa/Untitled.md",
-    "D&D/Worlds/Orizon/Wikis/Magonia/Judus Fidus/Untitled.md",
-    "D&D/Worlds/Orizon/Wikis/Magonia/Jhandpara/Untitled.md",
-    "D&D/Worlds/Orizon/Wikis/Magonia/Exire/Untitled.md",
-    "D&D/Worlds/Orizon/Templates/NPCs/NPC_Template.md",
-    "D&D/Worlds/Orizon/Templates/Locations/Untitled.md",
-    "D&D/Worlds/Orizon/Templates/Events/Untitled.md",
-    "D&D/Worlds/Orizon/Wikis/Databases/NPCs/_NPC_DB.md",
-    "D&D/Worlds/Orizon/World States/Pink Degenerates/Quests/_Quest_DB.md",
-    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/_Memfis_Maps/_Memfis_Map.canvas",
     "D&D/Worlds/Orizon/World States/Pink Degenerates/Quests/Quest List",
     "D&D/Worlds/Orizon/World States/Pink Degenerates/Quests",
     "D&D/Worlds/Orizon/World States/Pink Degenerates/Session Notes/Session Notes List",
@@ -268,11 +302,6 @@
     "D&D/Worlds/Orizon/World States/Pink Degenerates",
     "D&D/Worlds/Orizon/Wikis/Databases/NPCs/NPC List/Botanists of Tremblethorn",
     "D&D/Worlds/Orizon/Wikis/Databases/Images/Decanter of Infinite Bees.png",
-    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/_Memfis_Maps",
-    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Woepaw West",
-    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Sloan's Steel Quarter",
-    "D&D/Worlds/Orizon/Wikis/The Ground/Pagano Bansaland/Memfis/Craft Market",
-    "D&D/Worlds/Orizon/Wikis/Databases/Images/Memfis.jpeg",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
